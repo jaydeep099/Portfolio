@@ -54,7 +54,7 @@ function Hero() {
         </span>
         <p className={styles.description}>
           With a passion for developing modern FullStack web apps for commercial
-          businesses.
+          businesses. 
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
