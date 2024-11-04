@@ -69,6 +69,7 @@
   
   .description {
     max-width: 24ch;
+    align-self: center;
   }
   
   .info {
@@ -84,7 +85,6 @@
       justify-content: space-evenly;
   
       .hero {
-        top:20px;
         max-width: 350px;
         width: 350px;
       }
