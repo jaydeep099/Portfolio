@@ -25,6 +25,19 @@ body {
   margin: 0 auto 60px;
 }
 
+.constructionBanner {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 14px 24px;
+  color: #1a1a1a;
+  background: linear-gradient(90deg, #ffdd57 0%, #ffb300 100%);
+  border-bottom: 4px solid #ff8c00;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
 #root {
   display: flex;
   flex-direction: column;

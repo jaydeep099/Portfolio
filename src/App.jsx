@@ -8,6 +8,9 @@ import Skills from './sections/Skills/Skills';
 function App() {
   return (
     <>
+      <div className="constructionBanner">
+        🚧 Under construction — as I am out of town, this portfolio will be finished after 27th of this month.
+      </div>
       <Hero />
       <Projects />
       <Skills />

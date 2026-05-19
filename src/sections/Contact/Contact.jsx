@@ -4,6 +4,9 @@ function Contact() {
   return (
     <section id="contact" className={styles.container}>
       <h1 className="sectionTitle">Contact</h1>
+      <p style={{ marginBottom: '1rem', color: '#ff8c00' }}>
+        Contact section under construction 🚧 — as I am out of town, updates will follow after 27th of this month.
+      </p>
       <form action="https://getform.io/f/lbjkwzga" method="POST">
         <div className="formGroup">
           <label htmlFor="name" hidden>

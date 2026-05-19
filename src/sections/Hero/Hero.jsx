@@ -40,7 +40,7 @@ function Hero() {
           <br />
           Parmar
         </h1>
-        <h2>FullStack Developer</h2>
+        <h2>Technical Consultant</h2>
         <span>
           <a href="https://x.com/Jaydeepsinh099" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
@@ -53,8 +53,8 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern FullStack web apps for commercial
-          businesses. 
+          This portfolio is currently under construction, and as I am out of town,
+          it will be finished after 27th of this month.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
